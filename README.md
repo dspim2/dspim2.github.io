@@ -2,8 +2,8 @@ The Hackfoldr for dsp.im
 
 ------------
 
-http://dspim.github.io/
-http://hack.dsp.im/
+* http://dspim.github.io/
+* http://hack.dsp.im/
 
 License
 ------------
